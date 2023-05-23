@@ -1,1 +1,4 @@
 # MLCatsandDogs
+
+
+This part of the paper describes the data preprocessing and experiments conducted in this project. In practice, the work has been divided in three notebooks: the " " notebook, which reports 19 training experiments on 9 different network architectures, the " " notebook, containing xxx experiments ran using 5-fold cross validation on 3 different architectures, and " ", an additional notebook where images and network structure are visualized. The " " notebook contains the experiment conducted to select a subset of models to use for training with 5-fold cross validation. In fact, while I decided to explain the entirety of my work, the core of the project is found in the " " notebook, which responds to the necessity of the work having a more limited running time and can be run indipendently from the others, since each notebook contains the data preprocessing portion of the project. 
